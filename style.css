@@ -4,5 +4,5 @@
     --primary-color:#D8A25E;
     --secundary-color:#EEDF7A;
     --font:"nunito sans", sans-serif;
-    
 }
+body{ background-color:  var(--bg-color);}
